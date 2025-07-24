@@ -1,0 +1,51 @@
+/* PROFESSIONAL COLOR SCHEME OPTIONS */
+
+/* Option 1: Modern Blue (Tech Professional) */
+:root {
+    --bg-color: #0f1419;           /* Deep dark blue */
+    --second-bg-color: #1a2332;    /* Slate blue */
+    --main-color: #64ffda;          /* Cyan accent */
+    --secondary-accent: #82b1ff;   /* Soft blue */
+    --white-color: #ffffff;
+    --text-secondary: #a0aec0;     /* Muted text */
+}
+
+/* Option 2: Elegant Purple (Creative Professional) */
+:root {
+    --bg-color: #0d1117;           /* GitHub-like dark */
+    --second-bg-color: #21262d;    /* Charcoal */
+    --main-color: #bb86fc;          /* Purple accent */
+    --secondary-accent: #03dac6;   /* Teal */
+    --white-color: #ffffff;
+    --text-secondary: #8b949e;
+}
+
+/* Option 3: Sophisticated Orange (Warm Professional) */
+:root {
+    --bg-color: #1a1a1a;           /* True black */
+    --second-bg-color: #2d2d2d;    /* Dark gray */
+    --main-color: #ff6b35;          /* Professional orange */
+    --secondary-accent: #f7931e;   /* Golden orange */
+    --white-color: #ffffff;
+    --text-secondary: #cccccc;
+}
+
+/* Option 4: Minimalist Blue-Gray (Ultra Professional) */
+:root {
+    --bg-color: #0a0e27;           /* Navy */
+    --second-bg-color: #1e2749;    /* Steel blue */
+    --main-color: #00d4ff;          /* Sky blue */
+    --secondary-accent: #7c3aed;   /* Purple highlight */
+    --white-color: #ffffff;
+    --text-secondary: #94a3b8;
+}
+
+/* Option 5: Keep Current but Refined */
+:root {
+    --bg-color: #1a1f2e;           /* Darker, more professional */
+    --second-bg-color: #2a3441;    /* Warmer gray */
+    --main-color: #00ff88;          /* Softer green */
+    --secondary-accent: #00d4aa;   /* Complementary teal */
+    --white-color: #ffffff;
+    --text-secondary: #b0b8c1;
+}
